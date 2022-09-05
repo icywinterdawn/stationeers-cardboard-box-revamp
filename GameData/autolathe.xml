@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AutolatheRecipes>
+    <RecipeData>
+      <PrefabName>CardboardBox</PrefabName>
+      <Recipe>
+        <Silicon>0.5</Silicon>
+        <Energy>100</Energy>
+      </Recipe>
+    </RecipeData>
+  </AutolatheRecipes>
+</GameData>
